@@ -15,7 +15,7 @@ const Contact: React.FC = () => {
                             <img src="https://picsum.photos/seed/joshua/100/100" alt="Joshua Olanrewaju" className="w-24 h-24 rounded-full mr-6 border-4 border-cyan-500" />
                             <div>
                                 <h3 className="text-2xl font-bold text-white">Joshua Olanrewaju</h3>
-                                <p className="text-gray-400">IT & Cybersecurity Consultant</p>
+                                <p className="text-gray-400">IT & Cybersecurity Professional</p>
                             </div>
                         </div>
                         <p className="text-gray-400 mb-6">
